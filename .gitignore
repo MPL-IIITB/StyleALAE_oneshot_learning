@@ -1,0 +1,3 @@
+idinvert_pytorch/models/*
+idinvert_pytorch/boundaries/*
+principal_directions/*.npy
