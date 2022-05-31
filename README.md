@@ -1,5 +1,8 @@
 # StyleALAE_oneshot_learning
 
+- For pretrained idinvert models, please refer to the readme file in idinvert_pytorch folder.
+- For Style ALAE weights, plase refer to the instructions porvided in their source repo(https://github.com/podgorskiy/ALAE)
+
 **Samples**
 
 ![git_images-Page-2](https://user-images.githubusercontent.com/32710776/171091670-08e5c575-a606-4caf-a6f5-3bde4b723f53.jpg)
